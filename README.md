@@ -4,6 +4,10 @@ A reaction-based reflex game implemented in Verilog and designed for the DE10-Li
 ![Welcome Screen](images/welcome.png)
 
 ---
+## 🎮 Demo
+
+[![Watch ReflexRush Demo](Reaction_Time_Project_VHDL.png)](https://drive.google.com/file/d/11i0vkIMxMj5XKZvvz9c_aazylxQ8c4k5/view?usp=sharing)
+> Click the image above to watch a short hardware demo of ReflexRush on the DE10-Lite FPGA.
 
 ## 🎯 Overview
 
